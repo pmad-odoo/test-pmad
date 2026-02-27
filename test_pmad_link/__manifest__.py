@@ -7,6 +7,7 @@
 Test PMAD Link
     """,
     'category': 'Sales/ECommerce',
+    'live_test_url': 'https://unstanding-xenia-gorgedly.ngrok-free.app',
     'version': '1.0',
     'author': 'Odoo IN',
     'license': 'OPL-1',
